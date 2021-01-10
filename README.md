@@ -7,4 +7,5 @@ This repository contains the implementation of Deep Learning Projects as a part 
 2. Pytorch in Research
 3. Logistic Regression with Tensorflow
 4. Image Classification with Tensoflow
-5.
+5. Time Series Forecasting
+6. Time Seriec Classification with MCDCNN
